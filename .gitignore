@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+.contentful.json
+.env
+
+app.yaml
+secret.yaml
+
+.DS_Store
